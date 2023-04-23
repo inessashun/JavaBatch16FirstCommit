@@ -1,6 +1,6 @@
 package class12;
 
-public class E10StringDemo {
+public class E10StringDemoCounterCharAt {
     public static void main(String[] args) {
         String name="Leonel";
         System.out.println(name.charAt(1)); //index number of letter

@@ -1,6 +1,6 @@
 package class12;
 
-public class E11StringDemo {
+public class E11StringDemoIndexLetters {
     public static void main(String[] args) {
         String name="Today is Saturday";
         System.out.println(name.indexOf('i'));  //index# 6

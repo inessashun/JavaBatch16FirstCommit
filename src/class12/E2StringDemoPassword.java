@@ -1,6 +1,6 @@
 package class12;
 
-public class E2StringDemo {
+public class E2StringDemoPassword {
     public static void main(String[] args) {
         String userName="admin";
         String password="pass123";

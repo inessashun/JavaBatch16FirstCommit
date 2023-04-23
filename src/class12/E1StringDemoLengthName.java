@@ -1,6 +1,6 @@
 package class12;
 
-public class E1StringDemo {
+public class E1StringDemoLengthName {
     public static void main(String[] args) {
         //create the object of that class
         //Scanner scanner=new Scanner(System.in);

@@ -1,6 +1,6 @@
 package class12;
 
-public class E10StringClassWork {
+public class E9StringClassWork {
     public static void main(String[] args) {
         /*
         Store username, password and confirm password from a user and check following requirements:

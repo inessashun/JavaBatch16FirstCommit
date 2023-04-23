@@ -1,6 +1,6 @@
 package class12;
 
-public class E9StringDemo {
+public class E9StringDemoSentenceEndsContains {
     public static void main(String[] args) {
         String sentence="seeI don't see SEARch result";
 

@@ -1,8 +1,6 @@
 package class12;
 
-import org.w3c.dom.ls.LSOutput;
-
-public class E3StringDemo {
+public class E3StringDemoUpperLower {
     public static void main(String[] args) {
         String name="marina";
         String name2="AXEL";
